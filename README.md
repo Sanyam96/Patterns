@@ -6,10 +6,12 @@ Code of Each Pattern is available in CPP file and Image or Overview of Pattern i
 // Patterns in different programming languages coming very soon..
 
 <addr>
-*
-**
-***
-****
+  
+  *
+  **
+  ***
+  ****
+<p></p>
 
 <addr>
 *
